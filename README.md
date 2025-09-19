@@ -14,7 +14,7 @@ identify regional disease burden, environmental risk, and gaps in vaccination/tr
 ##### 2. Highlight regions with highest environmental health risks (e.g., bacterial counts).
 ##### 3. Assess demographic differences in access to vaccination and treatment and identify regions with low vaccination coverage.
 ## Data Overview & Assumptions
-#####- Source: Case data aggregated in the PowerPoint file covering 10 facilities across 5 regions.
+##### - Source: Case data aggregated in the PowerPoint file covering 10 facilities across 5 regions.
 ##### - Contains: regional patient distributions, number of facilities per region, disease-type frequencies, disease rankings, and maximum bacteria count per region.
 ##### - Missing/unclear: exact numeric tables, vaccination coverage rates by demographics, detailed age/sex breakdowns, population denominators, and statistical tests.
 
