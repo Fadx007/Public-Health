@@ -43,7 +43,7 @@ identify regional disease burden, environmental risk, and gaps in vaccination/tr
 ##### - Build dashboards to track weekly cases, vaccination, bacterial counts.
 ##### - Allocate resources to facilities in high-infection areas.
 ## Conclusion
-## The analysis indicates greater patient volumes and higher environmental bacterial maxima in southern regions. Infectious diseases, notably COVID-19 and asthma, are the leading conditions. Facility distribution is uneven, with the North-East having many and the South-West fewer. Policy priorities should include strengthening surveillance, public awareness, environmental testing, and improving facility access in under-served regions.
+##### The analysis indicates greater patient volumes and higher environmental bacterial maxima in southern regions. Infectious diseases, notably COVID-19 and asthma, are the leading conditions. Facility distribution is uneven, with the North-East having many and the South-West fewer. Policy priorities should include strengthening surveillance, public awareness, environmental testing, and improving facility access in under-served regions.
 
 
 
